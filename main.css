@@ -1,9 +1,12 @@
 html{
-   font-family: Tahomma
+   font-family: Tahomma;
+    background-color: darkgray;
+
 }
 
 h1{
-    font-size: 35px
+    font-size: 35px;
+    color: aqua;
 }
 h1,h2{
     text-align: center;
