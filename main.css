@@ -1,0 +1,12 @@
+html{
+   font-family: Tahomma
+}
+
+h1{
+    font-size: 35px
+}
+h1,h2{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
